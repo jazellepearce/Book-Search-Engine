@@ -14,5 +14,20 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazellepearce/Book-Search-Engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jazellepearce/Book-Search-Engine/issues"
+  },
+  "homepage": "https://github.com/jazellepearce/Book-Search-Engine#readme",
+  "dependencies": {
+    "apollo-server-core": "^3.10.1",
+    "apollo-server-express": "^3.10.1",
+    "express": "^4.18.1",
+    "graphql": "^16.5.0",
+    "http": "^0.0.1-security"
   }
 }
